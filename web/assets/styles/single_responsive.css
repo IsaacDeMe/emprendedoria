@@ -267,38 +267,7 @@
   .tab span {
     font-size: 14px;
   }
-  .tab_title h4 {
-    font-size: 20px;
-  }
-  .review {
-    padding-left: 0px;
-  }
-  .review_date {
-    margin-top: 15px;
-  }
-  .add_review {
-    margin-top: 44px;
-  }
-  .user_rating .star_rating {
-    margin-left: 0px;
-    margin-top: 7px;
-  }
-  .cr {
-    display: block;
-    margin-right: 0px;
-    margin-bottom: 30px;
-    font-size: 13px;
-  }
-  .footer_nav {
-    margin-bottom: 20px;
-  }
-  .footer_nav li {
-    display: block;
-    margin-right: 0px;
-  }
-  .footer_nav li a {
-    font-size: 13px;
-  }
+ 
 }
 
 /************
@@ -326,9 +295,7 @@
   .hamburger_container {
     margin-left: 25px;
   }
-  .hamburger_container i {
-    font-size: 40px;
-  }
+
   .hamburger_close {
     top: 14px;
     right: 4px;
@@ -410,25 +377,8 @@
   #newsletter_email::input-placeholder {
     font-size: 12px !important;
   }
-  .review_submit_btn,
-  .add_to_cart_button {
-    font-size: 12px;
-    width: 130px;
-    height: 36px;
-  }
-  .footer_nav_container {
-    margin-top: 35px;
-  }
-  .cr {
-    margin-bottom: 20px;
-  }
-  .footer_nav {
-    margin-bottom: 20px;
-  }
-  .footer_social {
-    margin-top: 5px;
-    margin-bottom: 30px;
-  }
+  
+  
 }
 
 /************
