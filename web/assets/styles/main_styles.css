@@ -594,9 +594,10 @@ section {
 .hamburger_container {
   display: none;
   margin-left: 40px;
+
 }
 .hamburger_container i {
-  font-size: 44px;
+  font-size: 40px;
   position: relative;
   top: -10px;
   color: #1e1e27;
