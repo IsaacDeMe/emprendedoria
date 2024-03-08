@@ -439,7 +439,8 @@
 	}
 	.hamburger_container i
 	{
-		font-size: 16px;
+		top: 0px;
+		font-size: 40px;
 	}
 	.hamburger_close
 	{
